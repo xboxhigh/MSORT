@@ -1,0 +1,4 @@
+CC=gcc
+INCLUDE_PATH=-I/home/smallpig/Include/
+LIB_PATH=-L/home/smallpig/Library/
+CFLAGS=
